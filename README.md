@@ -1,2 +1,2 @@
-# buddyforLife
+# BuddyforLife
 Dog Adoption Website
